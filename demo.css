@@ -39,7 +39,7 @@
     width: 24%;
     position: absolute;
     height: 1000px;
-    border-right: 1px solid black;
+    /* border-right: 1px solid black; */
 }
 
 .left-side img {
@@ -53,7 +53,7 @@
     left: 25%;
     width: 50%;
     height: 90%;
-    border: 1px solid black;
+    /* border: 1px solid black; */
 }
 
 .header {
@@ -75,7 +75,7 @@
     height: 36.5%;
     left: 10%;
     top: 300px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .loser {
